@@ -3,8 +3,8 @@
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'helldivers-2-dotnet'
-primary_region = 'ams'
+app = 'helldivers2-api-web'
+primary_region = 'syd'
 kill_signal = 'SIGTERM'
 
 [build]
